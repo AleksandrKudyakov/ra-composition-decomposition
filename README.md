@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uq0owy227j996232/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-composition-decomposition/branch/main)
